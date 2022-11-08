@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "Cardiology",
+    "picture": "https://rxdx.in/wp-content/uploads/2021/07/cardiology-img.jpg",
+    "price": "200$",
+    "description" : "Cardiology (from Ancient Greek καρδίᾱ (kardiā) 'heart', and -λογία (-logia) 'study') is a branch of medicine that deals with disorders of the heart and the cardiovascular system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology. Physicians who specialize in this field of medicine are called cardiologists, a specialty of internal medicine. Pediatric cardiologists are pediatricians who specialize in cardiology. Physicians who specialize in cardiac surgery are called cardiothoracic surgeons or cardiac surgeons, a specialty of general surgery."
+    
+  },
+  {
+    "id": 2,
+    "title": "Neurology",
+    "picture": "https://www.healthhubalfuttaim.com/wp-content/uploads/sites/17/2021/12/shutterstock_719796733_brain.jpeg",
+    "price": "300$",
+    "description" : "A neurologist is a physician specializing in neurology and trained to investigate, diagnose and treat neurological disorders.[2] Neurologists treat a myriad of neurologic conditions, including stroke, seizures, movement disorders such as Parkinson's disease, autoimmune neurologic disorders such as multiple sclerosis, headache disorders like migraine and dementias such as Alzheimer's disease.[3] Neurologists may also be involved in clinical research, clinical trials, and basic or translational research. While neurology is a nonsurgical specialty, its corresponding surgical specialty is neurosurgery."
+    
+  },
+  {
+    "id": 3,
+    "title": "Nephrology",
+    "picture": "https://www.drsaurindalal.com/images/nephrologist-doctor-ahmedabad.jpg",
+    "price": "250$",
+    "description" : "Nephrology (from Greek nephros kidney, combined with the suffix -logy, the study of) is a specialty of adult internal medicine and pediatric medicine that concerns the study of the kidneys, specifically normal kidney function (renal physiology) and kidney disease (renal pathophysiology), the preservation of kidney health, and the treatment of kidney disease, from diet and medication to renal replacement therapy (dialysis and kidney transplantation). The word “renal” is an adjective meaning “relating to the kidneys”, and its roots are French or late Latin. Whereas according to some opinions, renal and nephro should be replaced with kidney in scientific writings such as kidney medicine (instead of nephrology) or kidney replacement therapy, other experts have advocated preserving the use of renal and nephro as appropriate including in nephrology and renal replacement therapy, respectively."
+  
+  },
+  {
+    "id": 4,
+    "title": "Gastrology",
+    "picture": "http://img1.wsimg.com/isteam/ip/be028355-0d87-4fed-9d63-78c35f2157c9/telemedicine-for-gastroenterology.jpg",
+    "price": "280$",
+    "description" : "Diseases affecting the gastrointestinal tract, which include the organs from mouth into anus, along the alimentary canal, are the focus of this speciality. Physicians practicing in this field are called gastroenterologists. They have usually completed about eight years of pre-medical and medical education, a year-long internship (if this is not a part of the residency), three years of an internal medicine residency, and three years in the gastroenterology fellowship. Gastroenterologists perform a number of diagnostic and therapeutic procedures including colonoscopy, esophagogastroduodenoscopy (EGD), endoscopic retrograde cholangiopancreatography (ERCP), endoscopic ultrasound (EUS), and liver biopsy.[2] Some gastroenterology trainees will complete a fourth-year (although this is often their seventh year of graduate medical education) in transplant hepatology, advanced interventional endoscopy, inflammatory bowel disease, motility, or other topics."
+    
+  },
+  {
+    "id": 5,
+    "title": "Orthopedic",
+    "picture": "https://arvhospital.com/wp-content/uploads/2020/08/Orthopedic-Treatment-for-all-your-Joints-and-Bones-Problem.png",
+    "price": "350$",
+    "description" : "Examples of people who aided the development of modern orthopedic surgery were Hugh Owen Thomas, a surgeon from Wales, and his nephew, Robert Jones.[7] Thomas became interested in orthopedics and bone-setting at a young age, and after establishing his own practice, went on to expand the field into the general treatment of fracture and other musculoskeletal problems. He advocated enforced rest as the best remedy for fractures and tuberculosis, and created the so-called Thomas splint to stabilize a fractured femur and prevent infection. He is also responsible for numerous other medical innovations that all carry his name: Thomas's collar to treat tuberculosis of the cervical spine, Thomas's manoeuvre, an orthopedic investigation for fracture of the hip joint, the Thomas test, a method of detecting hip deformity by having the patient lying flat in bed, and Thomas's wrench for reducing fractures, as well as an osteoclast to break and reset bones."
+    
+  },
+  {
+    "id": 6,
+    "title": "Venereologist",
+    "picture": "https://img.freepik.com/premium-vector/venereologist-concept-professional-diagnostic-dermatology-disease-sexually-transmitted-diseases-infection-dermatovenerology-vector-illustration-cartoon-style_613284-1489.jpg?w=2000",
+    "price": "400$",
+    "description" : "The venereal diseases include bacterial, viral, fungal, and parasitic infections.[3] Some of the important diseases are HIV infection, syphilis, gonorrhea, candidiasis, herpes simplex, human papillomavirus infection, and genital scabies. Other sexually transmitted infections studied in the field include chancroid, lymphogranuloma venereum, granuloma inguinale, hepatitis B, and cytomegalovirus infection.In India, formal training of venereologists started in 1910, prompting microscopy and serology to come into general use throughout the Empire. Before this, many cases of early syphilis were either diagnosed as chancroid or missed altogether. To come to a diagnosis, doubtful atypical cases were at times left untreated to see whether they developed secondary syphilis"
+  
+  }
+  
+
+  
+]
