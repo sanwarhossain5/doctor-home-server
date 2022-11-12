@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    
     "title": "Cardiology",
     "picture": "https://rxdx.in/wp-content/uploads/2021/07/cardiology-img.jpg",
     "price": "200$",
@@ -8,7 +8,7 @@
     
   },
   {
-    "id": 2,
+    
     "title": "Neurology",
     "picture": "https://www.healthhubalfuttaim.com/wp-content/uploads/sites/17/2021/12/shutterstock_719796733_brain.jpeg",
     "price": "300$",
@@ -16,7 +16,7 @@
     
   },
   {
-    "id": 3,
+
     "title": "Nephrology",
     "picture": "https://www.drsaurindalal.com/images/nephrologist-doctor-ahmedabad.jpg",
     "price": "250$",
@@ -24,7 +24,7 @@
   
   },
   {
-    "id": 4,
+    
     "title": "Gastrology",
     "picture": "http://img1.wsimg.com/isteam/ip/be028355-0d87-4fed-9d63-78c35f2157c9/telemedicine-for-gastroenterology.jpg",
     "price": "280$",
@@ -32,7 +32,7 @@
     
   },
   {
-    "id": 5,
+  
     "title": "Orthopedic",
     "picture": "https://arvhospital.com/wp-content/uploads/2020/08/Orthopedic-Treatment-for-all-your-Joints-and-Bones-Problem.png",
     "price": "350$",
@@ -40,7 +40,7 @@
     
   },
   {
-    "id": 6,
+
     "title": "Venereologist",
     "picture": "https://img.freepik.com/premium-vector/venereologist-concept-professional-diagnostic-dermatology-disease-sexually-transmitted-diseases-infection-dermatovenerology-vector-illustration-cartoon-style_613284-1489.jpg?w=2000",
     "price": "400$",
