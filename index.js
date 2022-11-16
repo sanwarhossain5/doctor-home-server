@@ -147,5 +147,5 @@ app.get('/' , (req,res)=>{
 })
 
 app.listen(port, () =>{
-  console.log(`doctor home serve running on ${port}`);
+  console.log(`doctor home server running o ${port}`);
 })
